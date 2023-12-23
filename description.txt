@@ -1,0 +1,13 @@
+Création d'un SAAS: Vente de sites web préconçus pour les entreprises.
+Cible: La cible prioritaire pour nous ce sont les restaurants
+Taille des cibles: 10 plus gros géant du marché béninois pour un début
+Particularité des sites: Permettre au prestataire d'être au contacts de leur prospect, d'augmenter leur visibilité et d'améliorer leur services
+Fonctionnalité différenciative de la  plateforme: 
+    1- Services de réservation: Permettra au client d'avoir une idée du nombre de place disponible dans le restaurant, de réserver une table en fonction du nombre de personne voulu, de passer commande avant son arrivé pour accélérer le processus
+    2- Commander un plat livrable à domicile
+    3- Accès plus facile et plus élaborer au menu du restaurant par un système de code QR
+    4- Élaboration de facture normaliser numérique permettant d'augmenter la traçabilité
+    5- Commande de prestation particulière pour différents événements(service traiteurs)
+
+
+Avantage de l'offre: Gestion plus simple des recettes liée à la numérisation de toutes entrés
